@@ -1,0 +1,12 @@
+# Compiled files
+*.pyc
+
+# Pypi files
+dist/
+*.egg-info
+
+# Tox files
+.tox/
+
+# IDE files
+.idea/
