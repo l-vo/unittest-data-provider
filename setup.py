@@ -6,12 +6,12 @@ def read(fname):
     return open(os.path.join(os.path.dirname(__file__), fname)).read()
 
 setup(
-    name='unittest-data-provider',
-    version='1.0.1',
+    name='unittest-dataprovider',
+    version='1.0.2',
     description='PHPUnit-like @dataprovider decorator for unittest',
     author='drm from melp.nl, packaged for reuse by James Pic',
     author_email='jamespic@gmail.com',
-    url='http://github.com/yourlabs/unittest-data-provider',
+    url='http://github.com/l-vo/unittest-data-provider',
     packages=find_packages(),
     include_package_data=True,
     zip_safe=False,

@@ -1,3 +1,7 @@
+Disclaimer:
+===========
+**This is a only a clone of unittest-data-provider (https://pypi.org/project/unittest-data-provider/) with the last version of https://github.com/yourlabs/unittest-data-provider (package maintener didn't update project on Pypi and I haven't had any answer from him to my request).**
+
 Package for this snippet:
 http://melp.nl/2011/02/phpunit-style-dataprovider-in-python-unit-test/
 
