@@ -7,7 +7,7 @@ def read(fname):
 
 setup(
     name='unittest-dataprovider',
-    version='1.0.2',
+    version='1.0.3',
     description='PHPUnit-like @dataprovider decorator for unittest',
     author='drm from melp.nl, packaged for reuse by James Pic',
     author_email='jamespic@gmail.com',
