@@ -7,12 +7,12 @@ http://melp.nl/2011/02/phpunit-style-dataprovider-in-python-unit-test/
 
 Install::
 
-    pip install unittest-data-provider
+    pip install unittest-dataprovider
 
 Import::
 
     import unittest
-    from unittest_data_provider import data_provider
+    from unittest_dataprovider import data_provider
 
 You can then use data_provider without having to stick this snippet somewhere
 ...
